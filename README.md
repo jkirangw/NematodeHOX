@@ -1,4 +1,3 @@
-# NEMATODA_HOX_PROJECT_2023
 
 ## Revisiting Hox gene evolution, and Hox cluster linkage across Nematoda
 
